@@ -1,0 +1,6 @@
+pandas==1.1.5
+requests
+bs4
+lxml
+spacy
+chatterbot==1.0.4
